@@ -1,6 +1,7 @@
 ## Mobile Computing-Assignment 3
 # About
 This app is made to complete the Assignment 3 for Mobile Computing class course.
+
 Chat App Android is made with Android Studio using kotlin.
 App features : 
 - Chatting with someone realtime
